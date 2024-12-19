@@ -1,0 +1,2 @@
+Sample.txt
+{'EventA': 3, 'EventB': 2, 'EventC': 1}
